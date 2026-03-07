@@ -51,7 +51,6 @@ ai_mentor/
 │   └── web_ui.py           # Gradio интерфейс
 ├── chroma_db/               # Векторная БД (создаётся)
 ├── test_agent.py            # Тест агента
-├── download_vosk_model.py   # Скачивание модели Vosk
 ├── requirements.txt         # Зависимости
 └── README.md                # Документация
 
